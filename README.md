@@ -1,14 +1,14 @@
-# tamachi.go assets
+# assets
 
 [tamachi.go](https://tamachi-go.connpass.com) のロゴ・マスコット画像を管理するリポジトリです。
 
 ## 収録画像
 
-| ファイル           | 説明                      |
-| ------------------- | ------------------------- |
-| `square.png`         | tamachi.go ロゴ（正方形） |
-| `horizontal.png`      | tamachi.go ロゴ（横長版） |
-| `gopher_only.png`    | マスコット単体            |
+| ファイル          | 説明                      |
+| ----------------- | ------------------------- |
+| `square.png`      | tamachi.go ロゴ（正方形） |
+| `horizontal.png`  | tamachi.go ロゴ（横長版） |
+| `gopher_only.png` | マスコット単体            |
 
 ## ライセンス
 
